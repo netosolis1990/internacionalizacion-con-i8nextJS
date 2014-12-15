@@ -1,0 +1,12 @@
+{
+  "logo": {
+    "nombre": "Neto Solis English"
+  },
+  "title": {
+    "grande": "Example in English",
+    "pequeno": "Can change this :)"
+  },
+  "gray": {
+    "cambio": "Español"
+  }
+}

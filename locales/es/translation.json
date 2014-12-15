@@ -1,0 +1,12 @@
+{
+  "logo": {
+    "nombre": "Neto Solis Español"
+  },
+  "title": {
+    "grande": "Ejemplo en Español",
+    "pequeno": "Puedes Cambiar Esto :)"
+  },
+  "gray": {
+    "cambio": "English"
+  }
+}
